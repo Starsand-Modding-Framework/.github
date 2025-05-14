@@ -55,9 +55,9 @@ Founder and developer
 
 ## 📎 Links
 
-- [Main Framework Repository](https://github.com/Starsand-Modding-Framework/smf)  
-- [Documentation (coming soon)](#)  
-- [Discord (coming soon)](#)
+- [Main Framework Repository](https://github.com/Starsand-Modding-Framework/smf)
+- [Documentation (coming soon)](#)
+- [Discord (coming soon)](https://discord.gg/3Tus9NEKbb)
 
 ---
 
